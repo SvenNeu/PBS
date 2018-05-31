@@ -1,0 +1,4 @@
+# baseURI: https://github.com/SvenNeu/PBS/blob/master/PBSO.nt
+
+<https://github.com/SvenNeu/PBS/blob/master/PBSO.nt> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
+<https://github.com/SvenNeu/PBS/blob/master/PBSO.nt> <http://www.w3.org/2002/07/owl#versionInfo> "Created with TopBraid Composer" .
