@@ -1,5 +1,0 @@
-# baseURI: https://archive.org/services/purl/domain/PBS
-# prefix: PBS
-
-<https://archive.org/services/purl/domain/PBS> <http://www.w3.org/2002/07/owl#versionInfo> "Created with TopBraid Composer" .
-<https://archive.org/services/purl/domain/PBS> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://www.w3.org/2002/07/owl#Ontology> .
